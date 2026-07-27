@@ -10,7 +10,7 @@ The project demonstrates the use of data cleaning, data modelling, DAX, Power Qu
 
 ## 🖼️ Dashboard Preview
 
-![Retail Sales Performance Dashboard](images/dashboard-preview.png)
+![ Sales Performance Dashboard](dashboard-preview.png)
 
 ## 🎯 Business Objectives
 
