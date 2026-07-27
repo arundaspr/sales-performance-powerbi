@@ -10,7 +10,7 @@ The project demonstrates the use of data cleaning, data modelling, DAX, Power Qu
 
 ## 🖼️ Dashboard Preview
 
-![ Sales Performance Dashboard](dashboard-preview.png)
+![ Sales Performance Dashboard](dashboard-preview.png.png)
 
 ## 🎯 Business Objectives
 
@@ -20,9 +20,7 @@ The dashboard was designed to answer key business questions such as:
 - How many orders have been placed?
 - How is revenue changing over time?
 - Which products generate the highest revenue?
-- Which territories contribute the most to sales?
 - What is the return quantity?
-- Which products or territories have higher return activity?
 - How does sales performance vary across different periods?
 
 ## 🛠️ Tools & Technologies
